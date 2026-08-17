@@ -1,0 +1,4 @@
+interface:
+  display_name: "小曦的园子评论登录逻辑"
+  short_description: "设计无密码评论登录、友情链接身份、设备信任和邮箱安全授权流程"
+  default_prompt: "请按照小曦的园子评论登录逻辑设计或改造评论区登录、设备信任、邮箱授权和安全撤销流程。"
